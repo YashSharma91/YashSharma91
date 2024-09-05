@@ -1,3 +1,4 @@
+![logo](https://images.prismic.io/turing/652ebf73fbd9a45bcec818b7_functional_programming_44edc8e7a1.webp?auto=format,compress)
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
